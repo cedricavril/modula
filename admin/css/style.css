@@ -1,0 +1,12 @@
+ul:hover{
+	cursor: pointer;
+}
+
+ul li {
+	width: 20%;
+	min-width: 100px;
+}
+
+.container {
+	max-width: none;
+}
