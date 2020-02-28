@@ -1,12 +1,16 @@
-ul:hover{
-	cursor: pointer;
-}
-
 ul li {
-	width: 20%;
+	width: 33%;
 	min-width: 100px;
 }
 
 .container {
 	max-width: none;
+}
+
+.list-group-item {
+  word-break: break-word;
+}
+
+.table > tbody > tr > td,.table > tbody > tr > th {
+	vertical-align: middle;
 }
